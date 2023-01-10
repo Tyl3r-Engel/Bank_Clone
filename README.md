@@ -158,11 +158,9 @@ I would say I have solid understanding of how they work and operate.
 ## Optimizations / bugs
 
 At this point there are no major Optimizations I want to make,
-however there are components that could use to be rewritten,
-logic that could probably be simplified, code formatting and
-bug squashing to be done.
+however a version 2 is in development. Version 2 is written in Rails and
+the front end utilizes typescript.
 
-note: the backend will need to be added to for other app interaction
 
 ## bugs
 - 01# This bug happens after logout, the user can use the browsers navigation arrows to navigate back into the account.
@@ -181,14 +179,7 @@ note: the backend will need to be added to for other app interaction
 
 #### What's next?
 
-As for now Dice Bank is getting a pin
-while work starts on the stock trading app to go along side it.
-
-- index database
-
-- Getting tests written
-
-- Optimizations
+As for now Dice Bank is currently undergoing a rewrite/ revamp
 
 
 ## Authors
